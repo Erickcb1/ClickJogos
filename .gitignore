@@ -1,0 +1,12 @@
+AlbumCopaOnline/node_modules/
+AlbumCopaOnline/*.zip
+AlbumCopaOnline/*.msi
+AlbumCopaOnline/*.exe
+AlbumCopaOnline/*.log
+AlbumCopaOnline/.tmp*
+AlbumCopaOnline/.edge-*
+AlbumCopaOnline/.chrome-*
+AlbumCopaOnline/.unity-profile/
+AlbumCopaOnline/test-results/
+AlbumCopaOnline/backups/
+AlbumCopaOnline/.env
